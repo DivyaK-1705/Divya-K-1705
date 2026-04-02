@@ -11,6 +11,6 @@ Visualization: Power BI, Matplotlib, Seaborn
 Tools: Jupyter Notebook, Excel, GitHub
 Other: Data Annotation, Quality Analysis
 📫 Connect With Me
-📧 Email: Kdivya05@gmail.com
+📧 Email: divyakandaswamy17@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/divya-k-28518123/
 💻 GitHub: https://github.com/DivyaK-1705/Divya-K-1705)
